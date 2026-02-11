@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python run_experiments.py)",
+      "Bash(\"D:\\\\ancoda\\\\envs\\\\JUNzi\\\\python.exe\" run_experiments.py)",
+      "Bash(\"D:\\\\ancoda\\\\envs\\\\JUNzi\\\\python.exe\" test_fix.py)",
+      "Bash(\"D:\\\\ancoda\\\\envs\\\\JUNzi\\\\python.exe\" test_cca.py)",
+      "Bash(\"D:\\\\ancoda\\\\envs\\\\JUNzi\\\\python.exe\" test_batch.py)"
+    ]
+  }
+}
